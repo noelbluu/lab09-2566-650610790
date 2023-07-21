@@ -29,7 +29,7 @@ export const TaskInput = ({ addTaskFunc }) => {
       <button className="btn btn-primary" onClick={addTaskBtnOnClick}>
         Add
       </button>
-      
+
     </div>
   );
 };

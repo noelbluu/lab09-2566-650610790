@@ -26,7 +26,7 @@ export const Task = ({
       <button className="btn btn-danger" onClick={deleteBtnOnClick}>
         Delete
       </button>
-      
+
     </div>
   );
 };
